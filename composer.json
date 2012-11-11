@@ -1,0 +1,14 @@
+{
+    "config": {
+        "vendor-dir": "protected/extensions/vendor"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Asgaroth/xupload.git"
+        }
+    ],
+    "require": {
+        "Asgaroth/xupload": "v0.5.0"
+    }
+}

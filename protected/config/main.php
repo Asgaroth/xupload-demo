@@ -18,7 +18,7 @@ return array(
 		'application.components.*',
 	),
 	'aliases' => array(
-		'xupload' => 'ext.xupload'
+		'xupload' => 'ext.vendors.Asgaroth.xupload'
 	),
 
 	'modules'=>array(

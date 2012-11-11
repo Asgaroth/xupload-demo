@@ -30,3 +30,10 @@ assets/**
 assets/**/*
 protected/runtime/**
 protected/runtime/**/*
+
+
+#composer extensions
+protected/extensions/vendor/**
+protected/extensions/vendor/**/*
+
+composer.lock
